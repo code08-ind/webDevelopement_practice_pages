@@ -1,0 +1,33 @@
+body{
+	margin-left:25%;
+	margin-right:25%;
+	border:solid 20px #bdc3c7;
+	padding: 15px 20px;
+	font-family: source sans pro;
+	background-image: url('birds21.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h1{
+	color:#2c3e50;
+}
+div{
+	color: #3498db;
+	letter-spacing: 3px;
+	font-weight: 600;
+	margin-top: 5px;
+}
+p{
+	font-size: 13px;
+}
+.border{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 4px;
+}
+hr{
+	display: block;
+	border-width: 1px;
+	margin-top: 0.7em;
+	margin-bottom: 1.5em;
+}

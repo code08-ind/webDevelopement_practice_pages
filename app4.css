@@ -1,0 +1,15 @@
+*{
+	border:lightgrey 1px solid;
+}
+li a{
+	color:red;
+}
+h4+ul{
+	border:red 1px solid;
+}
+a[href="https://www.google.co.in/"]{
+	background: blue;
+}
+li:nth-of-type(odd){
+background: purple;
+}

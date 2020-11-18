@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>List and inheritance and specificity</title>
+	<style type="text/css">
+		/* Inheritance and specificity are two concepts we are talking about.inheritance means that all the list and it's all its elements are included in list and are inherited inside the list.so first of all we have used body's color so it gives color to its all elements inside the body.now we use ul so now color changes due to more specific thing used and specificity and same with li and class selector as it is used more than once and with id selector which is most specific we used.so color changes or changes can be carried out easily.*/ 
+		body{
+			color:red;
+		}
+		ul{
+			color:blue;
+		}
+		li{
+			color:orange;
+		}
+		.highlight{
+			color:yellow;
+		}
+		#special{
+			color:purple;
+		}
+	</style>
+</head>
+<body>
+	<h1>HELLO WORLD!!!</h1>
+	<!--hgjhk,jn-->
+	<ul>
+		<li id="special" class="highlight">John</li>
+		<li>Paul</li>
+		<li>George</li>
+		<li class="highlight">Rings</li>
+	</ul>
+</body>
+</html>

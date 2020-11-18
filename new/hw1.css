@@ -1,0 +1,19 @@
+header{
+	background-color: #A9A9A9;
+}
+main{
+	background-color:yellow;
+}
+h1{
+	text-align: center;
+	color:white;
+	text-transform: uppercase;
+}
+h2{
+	color:	#0000A0;
+	text-transform: uppercase;
+}
+a{
+	color:black;
+	background-color:white;
+}

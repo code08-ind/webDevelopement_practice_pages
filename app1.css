@@ -1,0 +1,22 @@
+h1{
+	color:#FF8002;
+	background: pink;
+}
+h4{
+	color:rgb(255,100,80);
+	background: yellow;
+	border:#EF6704 solid 6px; 
+}
+p{
+	color:rgba(255,200,50,.8);
+	border-color:purple;
+	border-width: 10px;
+	border-style: solid;  
+}
+ul{
+	color:#AB3505;
+}
+body{
+	background: url(https://www.wildtextures.com/wp-content/uploads/wildtextures_vintage-pine-table-top-480x320.jpg);
+	background-size: cover;
+}
